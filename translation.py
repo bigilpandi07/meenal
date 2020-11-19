@@ -1,13 +1,13 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot made by @prgofficial
+This is a Telegram URL Upload Bot made by @thalapathy_vijay07
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @moviesonlydiscussion
-© @prgofficial"""
+Support Group : @soorarai_pottru_2020tamil
+© @thalapathy_vijay07"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -51,8 +51,8 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-Support Group : @MoviEzoNlysuppOrT
-© @MovieZonlYheRe"""
+Support Group : @thalapathy_vijay07
+© @thalapathy_vijay07"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
